@@ -13,7 +13,6 @@ age:"19",
 country:"Iraq",
 
 programming_languages:["JavaScript"],
-
 libraries:["Discord.js"]
 };
 ```
