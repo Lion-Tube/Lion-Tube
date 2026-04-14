@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=6c8195&size=40&center=true&vCenter=true&width=700&lines=Hey!+I'm+Lion+Tube!;I'm+a+beginner+programmer+from+Iraq.;I+try+to+build+amazing+things+using+programming..." />
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=6c8195&size=40&center=true&vCenter=true&width=700&lines=Hey!+I'm+Lion+Tube!;I'm+a+beginner+programmer+from+Iraq.;Building+my+digital+kingdom..." />
 </div>
+
 
 ---
 
