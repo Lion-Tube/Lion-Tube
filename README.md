@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07447E&random=false&width=435&lines=Hi+there+%2C+I'm+Lion+Tube+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=6c8195&size=40&center=true&vCenter=true&width=700&lines=Hey!+I'm+Lion+Tube!;I'm+a+beginner+programmer+from+Iraq.;I+try+to+build+amazing+things+using+programming..." />
+  
+</div>
 
 ---
 
