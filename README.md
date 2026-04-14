@@ -1,5 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07447E&random=false&width=435&lines=Hi+there+%2C+I'm+Lion+Tube+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
+---
+
+### About Me
+
 ```js
 const Lion_Tube = {
 
@@ -13,7 +17,9 @@ programming_languages:["JavaScript"],
 libraries:["Discord.js"]
 };
 ```
-# My Social Media
+---
+
+### My Social Media
 
 <p align="left">
   <a href="https://www.instagram.com/lh_.47" target="_blank">
@@ -29,3 +35,16 @@ libraries:["Discord.js"]
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats-salesp07.vercel.app/api?username=abdullahjxa&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" />
+<img height="190" src="https://github-readme-streak-stats-salesp07.vercel.app?user=abdullahjxa&theme=react&border_radius=10&count_private=true" />
+<br/>
+<img height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdullahjxa&hide=html&layout=compact&theme=react&border_radius=10&langs_count=8" />
+
+</div>
