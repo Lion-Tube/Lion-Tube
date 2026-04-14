@@ -15,4 +15,17 @@ libraries:["Discord.js"]
 ```
 # My Social Media
 
-[Instagram](https://www.instagram.com/lh_.47) | [Youtube](www.youtube.com/@lion_tube) | [Github](https://github.com/Lion-Tube) | [Discord](https://discord.com/users/725671903267651645)
+<p align="left">
+  <a href="https://www.instagram.com/lh_.47" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@lion_tube" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://github.com/Lion-Tube" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/725671903267651645" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
