@@ -45,9 +45,9 @@ libraries:["Discord.js"]
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats-salesp07.vercel.app/api?username=abdullahjxa&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" />
-<img height="190" src="https://github-readme-streak-stats-salesp07.vercel.app?user=abdullahjxa&theme=react&border_radius=10&count_private=true" />
+<img height="190" src="https://github-readme-stats-salesp07.vercel.app/api?username=Lion-Tube&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" />
+<img height="190" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Lion-Tube&theme=react&border_radius=10&count_private=true" />
 <br/>
-<img height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abdullahjxa&hide=html&layout=compact&theme=react&border_radius=10&langs_count=8" />
+<img height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Lion-Tube&hide=html&layout=compact&theme=react&border_radius=10&langs_count=8" />
 
 </div>
